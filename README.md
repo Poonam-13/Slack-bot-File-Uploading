@@ -7,6 +7,7 @@ With so much technology available to individuals and corporations , you could ha
 types including standard images . Users can also ink videos that can be viewed directly from the link displaying the video content and play buttons in slack.
 
 Connecting to Slack from Golang:
+
 mkdir slack-bot
 cd slack-bot
 go mod init
@@ -14,6 +15,7 @@ go get -u github.com/slack-go/slack
 go get -u github.com/poonam-13
 
 Execute the program by running the main function:
+
 go run main.go
 
 Using the Slack Events API:
