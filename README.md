@@ -9,7 +9,6 @@ types including standard images . Users can also ink videos that can be viewed d
 Connecting to Slack from Golang:
 
 mkdir slack-bot
-
 cd slack-bot
 
 go mod init
