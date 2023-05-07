@@ -31,7 +31,7 @@ go mod init
 
 3. Build the application:
 
-   - ``` go build ```
+   ``` go build ```
 
 4. Install the required dependencies:
 
@@ -47,8 +47,8 @@ go get -u github.com/poonam-13
 
 7. Run the application:
 
- -  ``` go run main.go ```
- -  ``` ./slack-bot-file-uploading ```
+   ``` go run main.go ```
+   ``` ./slack-bot-file-uploading ```
 
 8. Invite the bot to your Slack workspace and grant the necessary permissions to upload files.
 
