@@ -16,7 +16,7 @@ types including standard images . Users can also ink videos that can be viewed d
 
 ## Installation
 
-1. Clone the repository:
+1.Clone the repository:
 git clone: https://github.com/Poonam-13/Slack-bot-File-Uploading.git
 
 2.Connecting to Slack from Golang:
@@ -47,8 +47,8 @@ go get -u github.com/poonam-13
 
 7. Run the application:
 
-``` go run main.go ```
-``` ./slack-bot-file-uploading ```
+ ``` go run main.go ```
+ ``` ./slack-bot-file-uploading ```
 
 8. Invite the bot to your Slack workspace and grant the necessary permissions to upload files.
 
