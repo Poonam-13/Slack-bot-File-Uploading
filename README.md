@@ -48,12 +48,10 @@ go get -u github.com/poonam-13
 7. Run the application:
 
    ``` go run main.go ```
-   ``` ./slack-bot-file-uploading ```
+   
 
 8. Invite the bot to your Slack workspace and grant the necessary permissions to upload files.
 
-
-7. Invite the bot to your Slack workspace and grant the necessary permissions to upload files.
 
 ## Usage 🔥
 
