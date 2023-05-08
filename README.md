@@ -78,11 +78,14 @@ Contributions are welcome! If you'd like to contribute to the project.
 ## Acknowledgements
 This project utilizes the official Slack API for interacting with the Slack platform.
 
-## 🔗Contact 📞
+## 🔗Contact with me: 📞
 
 If you have any questions, feedback, or suggestions, please feel free to reach out:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooo13/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Poooo_13)
+<p align="left">
+<a href="https://twitter.com/poooo_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="poooo_13" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pooo13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pooo13" height="30" width="40" /></a>
+<a href="https://discord.gg/#0888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0888" height="30" width="40" /></a>
+</p>
 
 
 
