@@ -78,7 +78,7 @@ Contributions are welcome! If you'd like to contribute to the project.
 ## Acknowledgements
 This project utilizes the official Slack API for interacting with the Slack platform.
 
-## 🔗Contact with me: 📞
+## 🔗Connect with me: 📞
 
 If you have any questions, feedback, or suggestions, please feel free to reach out:
 <p align="left">
